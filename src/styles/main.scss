@@ -1,0 +1,13 @@
+//css文件入口
+
+
+//重置浏览器的默认样式
+@import "./reset.scss";
+
+//主题的背景色
+@import "./theme.scss";
+
+
+body{
+    background-color:$bg-color
+}
